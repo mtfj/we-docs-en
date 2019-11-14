@@ -4,7 +4,7 @@ Features overview
 Waves Enterprise Blockchain Platform — is a universal solution for scalable digital infrastructures that combines features of public and private blockchain for corporate and government use. The enterprise blockchain platform solves the problem of trust between the parties not at the level of business logic, but at the level of the platform operation protocol. Supported PoS and PoA consensuses guarantee correctness of data added to the blockchain, while decentralization provides counterparty independence in terms of data access.
 
 Blockchain Waves Enterprise
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Built on Scala programming language.
 * Includes technologies and best use practices of use proven on the Waves public blockchain platform.
