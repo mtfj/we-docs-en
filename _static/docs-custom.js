@@ -14,7 +14,7 @@ function setDocLink() {
 function setLangSwitcherLink() {
     var ruToggle = document.getElementById('lang-ru');
     var enToggle = document.getElementById('lang-en');
-    var ruHref = window.location.href.replace('/en', '');
+    var ruHref = window.location.href.replace('/en', '/ru');
     var enHref = '';
     if (window.location.pathname !== '/') {
         enHref = window.location.href.replace(window.location.pathname, '/en' + window.location.pathname);
